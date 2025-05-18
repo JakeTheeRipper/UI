@@ -128,7 +128,7 @@
 				{
 					"title": "\r\n\r\n<TS.Roboto.15.Orange>WELCOME</>",
 					"titlejustification": "Left",
-					"text": "Realm of Ragnarok is setup to give a Medieval Fantasy RPG feel to Ark.\r\nThis is not setup as a roleplay server but you are free to RP if you wish.\r\n\r\nThis is a highly modded server which is well balanced with primitve engrams.\r\nThere are lots of additional creatures to tame, medieval structures to build and fantasy gear to find & unlock.\r\n\r\n\r\n<TS.Roboto.15.Orange>STARTERS</>\r\n\r\n- Open the Buff Menu by holding R (PC) / Square (PS5) / X (XBOX).\r\n- Go to Simple Trade then open the Global Market.\r\n- You will see active listings, select Starter.\r\n- Buy your starter for 0 coin (make sure to check the ITEMS & DINOS tabs).\r\n- If you lose this tame you can purchase a replacement Griffin here too.\r\n\r\n\r\n\r\nTo join our Discord please press on the DISCORD tab on the bottom right,\r\nor you can use the following link: https://discord.gg/u9G4McFsZc.\r\n\r\n\r\n\r\n<TS.Roboto.15.Orange>You earn 10x Gold Coins for every 15 mins of gameplay</>\r\n",
+					"text": "Realm of Ragnarok is setup to give a Medieval Fantasy RPG feel to Ark.\r\nThis is not setup as a roleplay server but you are free to RP if you wish.\r\n\r\nThis is a highly modded server setup with well balanced primitve engrams.\r\nThere are lots of additional creatures to tame, medieval structures to build and fantasy gear to find & unlock.\r\n\r\n\r\n<TS.Roboto.15.Orange>STARTERS</>\r\n\r\n- Open the Buff Menu by holding R (PC) / Square (PS5) / X (Xbox).\r\n- Go to Simple Trade then open the Global Market.\r\n- You will see active listings, select Starter.\r\n- Buy your starter for 0 coin (make sure to check the Items & Dinos tabs).\r\n- If you lose this tame you can purchase a replacement Griffin here too.\r\n\r\n\r\n\r\nTo join our Discord please press on the DISCORD tab on the bottom right,\r\nor you can use the following link: https://discord.gg/u9G4McFsZc.\r\n\r\n\r\n<TS.Roboto.15.Orange>You earn 10x Gold Coins for every 15 mins of gameplay</>\r\n",
 					"textjustification": "Left",
 					"backgroundcolor":
 					{
@@ -552,11 +552,11 @@
 		"iconsettings":
 		{
 			"showicon": true,
-			"hideafterduration": 29.957647323608398,
+			"hideafterduration": 300,
 			"usecustomicon": true,
-			"customiconurl": "https://drive.google.com/uc?export=download&id=1llNpkkSAiytUcNO4JgjMS80Wy90pqPPT",
-			"usecustomtext": true,
-			"customtext": "F2",
+			"customiconurl": "https://drive.google.com/uc?export=download&id=1Qn0V1kWGKo_6jO7pNKynbgxqk4U6XrMp",
+			"usecustomtext": false,
+			"customtext": "",
 			"customtextcolor":
 			{
 				"r": 1,
@@ -568,17 +568,17 @@
 			"position": "NewEnumerator3",
 			"iconmarginx": 20,
 			"iconmarginy": 20,
-			"iconopacity": 1,
-			"customtextopacity": 1,
+			"iconopacity": 0.60076451301574707,
+			"customtextopacity": 0,
 			"customtexthorizontalalignment": "HAlign_Center",
-			"customtextverticalalignment": "VAlign_Top",
-			"customtextfontsize": 30
+			"customtextverticalalignment": "VAlign_Center",
+			"customtextfontsize": 0
 		},
 		"showsettings":
 		{
 			"onplayerlogon": true,
 			"fornewplayersonly": false,
-			"onnextplayerlogonversion": 0
+			"onnextplayerlogonversion": 3
 		},
 		"miscsettings":
 		{
